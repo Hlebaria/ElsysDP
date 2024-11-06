@@ -1,0 +1,4 @@
+docker-compose -> db
+run main method -> backend
+npm start -> frontend
+http://localhost:3000
